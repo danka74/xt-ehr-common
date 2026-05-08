@@ -1,0 +1,19 @@
+{
+  "url" : "http://www.xt-ehr.eu/fhir/models/ImplementationGuide/xtehr.eu.ehds.models",
+  "name" : "EHDSModels",
+  "title" : "EHDS Logical Information Models",
+  "description" : "EHDS Logical Information Models",
+  "status" : "active",
+  "package-id" : "xtehr.eu.ehds.models",
+  "ig-ver" : "1.0.0",
+  "date" : "Fri, 08 May, 2026 08:22:22 +0000",
+  "dateISO8601" : "2026-05-08T08:22:22+00:00",
+  "errs" : 0,
+  "warnings" : 0,
+  "hints" : 0,
+  "suppressed-hints" : 973,
+  "suppressed-warnings" : 3,
+  "version" : "5.0.0",
+  "tool" : "5.0.0 (3)",
+  "maxMemory" : 2497646752
+}
